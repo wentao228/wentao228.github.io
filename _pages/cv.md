@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science and Technology, Hunan University (current, 2021-2024)
+* M.S. in Computer Science and Technology, Hunan University, 2021-2024
 * B.S. in Computer Science and Technology, China University of Mining and Technology, 2017-2021
 
 
