@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Download PDF version of my CV from [here](http://wentao228.github.io/files/CV.pdf).
 
 Education
 ======
