@@ -21,7 +21,7 @@ redirect_from:
   <ul>
     <li>B.Sc. in Computer Science and Technology, China University of Mining and Technology (CUMT, Project 211)</li>
     <li>Research Interests: Data Privacy and Security, Searchable Encryption</li>
-    <li>Supervisor: Prof. <a href="https://scholar.google.com.hk/citations?hl=en&user=2zTr37gAAAAJ">Qin Liu</a>.</li>
+    <li>Supervisor: Prof. <a href="https://scholar.google.com.hk/citations?hl=en&user=2zTr37gAAAAJ">Qin Liu</a></li>
   </ul>
 </ul>
 </div>
