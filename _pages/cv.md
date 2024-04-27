@@ -31,11 +31,11 @@ redirect_from:
 <ul style="font-size:85%">
   <li>Paper Review</li>
   <ul>
-    <li>Journal: [Briefings in Bioinformatics](https://academic.oup.com/bib)</li>
+    <li>Journal: <a href="https://academic.oup.com/bib">Briefings in Bioinformatics</a></li>
   </ul>
   <li>Media</li>
   <ul>
-    <li>Editor: [DrugAI](https://www.zhihu.com/people/wang-jian-min-113/posts)</li>
+    <li>Editor: <a href="https://www.zhihu.com/people/wang-jian-min-113/posts">DrugAI</li>
   </ul>
 </ul>
 </div>
