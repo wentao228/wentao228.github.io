@@ -35,7 +35,7 @@ redirect_from:
   </ul>
   <li>Media</li>
   <ul>
-    <li>Editor: <a href="https://www.zhihu.com/people/wang-jian-min-113/posts">DrugAI</li>
+    <li>Editor: <a href="https://www.zhihu.com/people/wang-jian-min-113/posts">DrugAI</a></li>
   </ul>
 </ul>
 </div>
