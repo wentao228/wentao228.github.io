@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<br />
 {% include base_path %}
 <div>
 <b style="font-size:120%">Education</b>
