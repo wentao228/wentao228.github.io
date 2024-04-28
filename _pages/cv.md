@@ -11,7 +11,7 @@ redirect_from:
 <div>
 <b style="font-size:120%">Education</b>
 <ul style="font-size:85%">
-  <li>September 2021 – June 2024, GPA 3.86/4.00, Rank: 1/32</li>
+  <li>September 2021 – June 2024, GPA: 3.86/4.00, Rank: 1/32</li>
   <ul>
     <li>M.Sc. in Computer Science and Technology, Hunan University (HNU, Project 985/211)</li>
     <li>Research Interests: AI for Science, Graph Machine Learning, Drug Discovery, Explainable AI</li>
