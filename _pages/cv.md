@@ -33,7 +33,7 @@ redirect_from:
   <ul>
     <li>Journal: <a href="https://academic.oup.com/bib">Briefings in Bioinformatics</a></li>
     <li>Journal: <a href="https://www.nature.com/srep/">Scientific Reports</a></li>
-    <li>Journal: <a href="https://cikm2024.org/">The Conference on Information and Knowledge Management (CIKM) 2024</a></li>
+    <li>Conference: <a href="https://cikm2024.org/">The Conference on Information and Knowledge Management (CIKM) 2024</a></li>
   </ul>
   <li>Media</li>
   <ul>
