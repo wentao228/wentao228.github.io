@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprint
 $\text{Bridging Chemical Structure and Conceptual Knowledge Enables Accurate Prediction of Compound-Protein Interaction}$ <br/>
-**Wen Tao**, Xuan Lin, Yuansheng Liu, Li Zeng, Tengfei Ma, Ning Cheng, Jing Jiang, Pengyong Li, Hongxin Xiang, Bosheng Song, Quan Zou, Xiangxiang Zeng <br/> *Under Review*, 2024 <br/> [[Code]](https://github.com/wentao228/KG-CPI) [[URL]]()
+**Wen Tao**, Xuan Lin, Yuansheng Liu, Li Zeng, Tengfei Ma, Ning Cheng, Jing Jiang, Xiangxiang Zeng <br/> *Under Review*, 2024 <br/> [[Code]](https://github.com/wentao228/BEACON) [[URL]]()
 
 $\text{KGExplainer: Towards Exploring Connected Subgraph Explanations for Knowledge Graph Completion}$ <br/>
 Tengfei Ma, Xiang Song, **Wen Tao**, Mufei Li, Jiani Zhang, Xiaoqin Pan, Jianxin Lin, Bosheng Song, Xiangxiang Zeng <br/> *Preprint*, 2024 <br/> [[Code]]() [[URL]](https://arxiv.org/abs/2404.03893)
