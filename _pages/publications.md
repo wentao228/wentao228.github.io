@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprint
 $\text{Towards Synergistic Path-based Explanations for Knowledge Graph Completion: Exploration and Evaluation}$ <br/>
-Tengfei Ma, Xiang Song, **Wen Tao**, Mufei Li, Jiani Zhang, Xiaoqin Pan, Jianxin Lin, Bosheng Song, Xiangxiang Zeng <br/> *Under Review*, ICLR 2025 <br/> [[OpenReview](https://openreview.net/forum?id=WQvkqarwXi) [[Preprint]](https://arxiv.org/abs/2404.03893)
+Tengfei Ma, Xiang Song, **Wen Tao**, Mufei Li, Jiani Zhang, Xiaoqin Pan, Jianxin Lin, Bosheng Song, Xiangxiang Zeng <br/> *Under Review*, ICLR 2025 <br/> [[OpenReview]](https://openreview.net/forum?id=WQvkqarwXi) [[Preprint]](https://arxiv.org/abs/2404.03893)
 
 
 ## Published
