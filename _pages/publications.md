@@ -18,5 +18,5 @@ $\text{Bridging chemical structure and conceptual knowledge enables accurate pre
 **Wen Tao**, Xuan Lin, Yuansheng Liu, Li Zeng, Tengfei Ma, Ning Cheng, Jing Jiang, Xiangxiang Zeng, Sisi Yuan <br/> *BMC Biology*, 2024, JCR: Q1, IF: 4.4 <br/> [[Code]](https://github.com/wentao228/BEACON) [[URL]](https://link.springer.com/article/10.1186/s12915-024-02049-y)
 
 $\text{Learning to Denoise Biomedical Knowledge Graph for Robust Molecular Interaction Prediction}$ <br/>
-Tengfei Ma, Yujie Chen, **Wen Tao**, Dashun Zheng, Xuan Lin, Patrick Cheong-Iao Pang, Yiping Liu, Yijun Wang, Longyue Wang, Bosheng Song, Xiangxiang Zeng, Philip S. Yu <br/> *IEEE Transactions on Knowledge and Data Engineering*, 2024, JCR: Q1, IF: 8.9 <br/> [[Code]](https://github.com/xiaomingaaa/BioKDN) [[URL]](https://ieeexplore.ieee.org/document/10706014)
+Tengfei Ma, Yujie Chen, **Wen Tao**, Dashun Zheng, Xuan Lin, Patrick Cheong-Iao Pang, Yiping Liu, Yijun Wang, Longyue Wang, Bosheng Song, Xiangxiang Zeng, Philip S. Yu <br/> *IEEE Transactions on Knowledge and Data Engineering*, 2024, JCR: Q1, IF: 8.9, The paper was covered by the following media outlet: [AI in Graph](https://mp.weixin.qq.com/s/_jxEYqdQ9WhxVv4Yqshh_w) <br/> [[Code]](https://github.com/xiaomingaaa/BioKDN) [[URL]](https://ieeexplore.ieee.org/document/10706014)
 
