@@ -27,6 +27,18 @@ redirect_from:
 </div>
 
 <div>
+<b style="font-size:120%">Research Experience</b>
+<ul style="font-size:85%">
+  <li>May 2024 – Present</li>
+  <ul>
+    <li>Research Intern (Remote), UCLA</li>
+    <li>Research Interests: Trustworthy Large Language Models for Molecule Generation</li>
+    <li>Supervisor: Dr. <a href="https://wangywust.github.io/">Yiwei Wang</a></li>
+  </ul>
+</ul>
+</div>
+
+<div>
 <b style="font-size:120%">Services</b>
 <ul style="font-size:85%">
   <li>Paper Review</li>
