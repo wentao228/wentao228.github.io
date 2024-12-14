@@ -57,6 +57,7 @@ redirect_from:
 <div>
 <b style="font-size:120%">Selected Awards</b>
 <ul style="font-size:85%">
+  <li>Outstanding Master's Thesis (Top 3%), HNU, 2024</li>
   <li>Provincial-Level Outstanding Graduate (Top 1%), HNU, 2024</li>
   <li>University-Level Outstanding Graduate, HNU, 2024</li>
   <li>National Scholarship (Top 1%), HNU, 2023</li>
