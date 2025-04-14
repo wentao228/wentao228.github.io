@@ -29,28 +29,15 @@ redirect_from:
 <div>
 <b style="font-size:120%">Research Experience</b>
 <ul style="font-size:85%">
+  <li>February 2025 – Present</li>
+  <ul>
+    <li>Research Intern, The Hong Kong University of Science and Technology (Guangzhou)</li>
+    <li>Supervisor: Prof. <a href="https://sites.google.com/view/jtang">Jing Tang</a></li>
+  </ul>
   <li>May 2024 – Present</li>
   <ul>
     <li>Research Intern, UCLA and UC Merced</li>
-    <li>Research Interests: Trustworthy Large Language Models for Molecule Generation</li>
     <li>Supervisor: Prof. <a href="https://wangywust.github.io/">Yiwei Wang</a></li>
-  </ul>
-</ul>
-</div>
-
-<div>
-<b style="font-size:120%">Services</b>
-<ul style="font-size:85%">
-  <li>Paper Review</li>
-  <ul>
-    <li>Journal: <a href="https://academic.oup.com/bib">Briefings in Bioinformatics</a></li>
-    <li>Journal: <a href="https://www.nature.com/srep/">Scientific Reports</a></li>
-    <li>Journal: <a href="https://link.springer.com/journal/13042">International Journal of Machine Learning and Cybernetics</a></li>
-    <li>Conference: <a href="https://cikm2024.org/">The Conference on Information and Knowledge Management (CIKM) 2024</a></li>
-  </ul>
-  <li>Media</li>
-  <ul>
-    <li>Editor: <a href="https://mp.weixin.qq.com/s/3kXqLMpPZ-sB4PPRZzSZPA">DrugAI</a></li>
   </ul>
 </ul>
 </div>
