@@ -4,10 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-## Preprint
-
-## Published
 $\text{Prediction of multi-relational drug-gene interaction via Dynamic hyperGraph Contrastive Learning}$ <br/>
 **Wen Tao**, Yuansheng Liu, Xuan Lin, Bosheng Song, Xiangxiang Zeng <br/> *Briefings in Bioinformatics*, 2023, JCR: Q1, IF: 9.5, The paper was covered by the following media outlet: [AI in Graph](https://mp.weixin.qq.com/s/C3LarP4capLUssjIvsY7Xw), [PHAIMUS](https://mp.weixin.qq.com/s/d2Nw2pzTAzYXDpdQ9meOkQ) <br/> [[Code]](https://github.com/wentao228/DGCL) [[URL]](https://academic.oup.com/bib/article/24/6/bbad371/7325811)
 
