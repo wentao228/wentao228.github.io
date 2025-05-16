@@ -15,13 +15,13 @@ redirect_from:
   <ul>
     <li>Master of Engineering in Computer Science and Technology, Hunan University (HNU, Project 985/211)</li>
     <li>Research Interests: AI for Science, Graph Machine Learning, Drug Discovery, Explainable AI</li>
-    <li>Supervisor: Prof. <a href="https://scholar.google.com/citations?user=B20HBMIAAAAJ&hl=en">Xiangxiang Zeng</a>, Prof. <a href="https://www.researchgate.net/profile/Yuansheng-Liu-3">Yuansheng Liu</a></li>
+    <li>Supervisor: Prof. <a href="https://scholar.google.com/citations?user=B20HBMIAAAAJ&hl=en">Xiangxiang Zeng</a>, Prof. <a href="https://scholar.google.com/citations?user=H6yrNMQAAAAJ&hl=en">Yuansheng Liu</a></li>
   </ul>
   <li>September 2017 – June 2021, GPA: 88.18/100</li>
   <ul>
     <li>Bachelor of Engineering in Computer Science and Technology, China University of Mining and Technology (CUMT, Project 211)</li>
     <li>Research Interests: Data Privacy and Security, Searchable Encryption</li>
-    <li>Supervisor: Prof. <a href="https://scholar.google.com.hk/citations?hl=en&user=2zTr37gAAAAJ">Qin Liu</a></li>
+    <li>Supervisor: Prof. <a href="https://scholar.google.com.hk/citations?hl=en&user=2zTr37gAAAAJ&hl=en">Qin Liu</a></li>
   </ul>
 </ul>
 </div>
